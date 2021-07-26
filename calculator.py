@@ -11,7 +11,3 @@ def multiply(a, b):
 def divide_final(a, b):
 	return a/b
 
-
-
-
- 
