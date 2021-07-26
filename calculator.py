@@ -8,8 +8,8 @@ def subtract(a, b):
 def multiply(a, b):
 	return a*b
 
+<<<<<<< HEAD
 def divide_final(a, b):
 	return a/b
 
-def square(a):
-	return a*a
+# te 
